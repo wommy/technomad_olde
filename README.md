@@ -5,7 +5,9 @@ hello! this is where i write about the project
 
 ## todo
 ### past
+- [x] index.html
+
 ### present
-- [ ] index.html
+- [ ] netlify
 
 ### future
