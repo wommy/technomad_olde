@@ -1,6 +1,4 @@
-# the website for technomad.media
-
-## authored by [wommy](github.com/wommy)
+# [technomad.media](www.technomad.media) - author: [wommy](github.com/wommy)
 
 ### done
 ## to do
