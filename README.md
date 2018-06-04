@@ -1,6 +1,11 @@
-# [technomad.media](www.technomad.media) - author: [wommy](github.com/wommy)
+# [technomad.media](//www.technomad.media)
 
-### done
-## to do
+### intro
+hello! this is where i write about the project
 
+## todo
+### past
+### present
 - [ ] index.html
+
+### future
