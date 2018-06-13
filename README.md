@@ -8,6 +8,8 @@ hello! this is where i write about the project
 - [x] index.html
 
 ### present
-- [ ] netlify
+- [ ] cname ? ask netilfy
+- [ ] mv index.html /wommy
+- [ ]
 
 ### future
