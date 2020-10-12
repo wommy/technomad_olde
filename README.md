@@ -1,5 +1,11 @@
 # [www.technomad.media](//www.technomad.media)
 
+## 20oct12 update
+
+gonna vue this file
+
+felt like i should start here
+
 ### intro
 hello! this is where i write about the project
 
